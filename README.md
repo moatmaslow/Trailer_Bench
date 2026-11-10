@@ -2,7 +2,7 @@
 
 # Trailer_Bench
 
-![](/project.svg)
+![](/project.png)
 
 ## Inputs
 
